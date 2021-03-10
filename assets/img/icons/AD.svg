@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:rgba(255,255,255,0)}.cls-4{fill:#5960a2}.cls-5{fill:#7a2983}.cls-6{fill:#7284bb}.cls-7{fill:#c85416}.cls-8{fill:#b31e1d}.cls-9{fill:#e0a511}.cls-10{fill:#839acb}.cls-11{fill:#4d6cac}.cls-12{fill:#9fcbe2}.cls-13{fill:#a7bf30}.cls-14{fill:#699cd1}.cls-15{fill:#5e97a4}.cls-16{fill:#bbcae5}.cls-17{fill:#7bb5af}.cls-18{fill:#931551}.cls-19{fill:#97bf99}.cls-20{fill:#eae21e}.cls-21{fill:#7bb9d1}.cls-22{fill:#8fafda}.cls-23{fill:#c25c99}.cls-24{fill:#5b448f}.cls-25{fill:#f4de00}.cls-26{fill:#7ab8e4}.cls-27{fill:#6da63b}.cls-28{fill:#dfbc0a}.cls-29{fill:#c7d027}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h32v32H0z" class="cls-1"/>
+        </clipPath>
+    </defs>
+    <g id="Azul" class="cls-2" data-name="Atomos/Figures/Aereo/Cias/Azul">
+        <path id="Retângulo_46" d="M0 0h32v32H0z" class="cls-3" data-name="Retângulo 46"/>
+        <g id="logo_azul_vetor" transform="translate(2 2)">
+            <path id="Retângulo_11" d="M0 0h1.668v1.296H0z" class="cls-4" data-name="Retângulo 11" transform="translate(17.299 2.637)"/>
+            <path id="Retângulo_12" d="M0 0h5.101v5.387H0z" class="cls-5" data-name="Retângulo 12" transform="translate(11.156 16.568)"/>
+            <path id="Retângulo_13" d="M0 0h3.353v2.011H0z" class="cls-6" data-name="Retângulo 13" transform="translate(14.51 23.108)"/>
+            <path id="Retângulo_14" d="M0 0h4.028v3.951H0z" class="cls-7" data-name="Retângulo 14" transform="translate(12.523 24.049)"/>
+            <path id="Retângulo_15" d="M0 0h3.45v1.496H0z" class="cls-8" data-name="Retângulo 15" transform="translate(17.513 20.459)"/>
+            <path id="Retângulo_16" d="M0 0h3.537v.886H0z" class="cls-9" data-name="Retângulo 16" transform="translate(16.253 17.737)"/>
+            <path id="Retângulo_17" d="M0 0h2.473v.675H0z" class="cls-10" data-name="Retângulo 17" transform="translate(20.958 20.459)"/>
+            <path id="Retângulo_18" d="M0 0h3.379v4.292H0z" class="cls-11" data-name="Retângulo 18" transform="translate(16.253 13.446)"/>
+            <path id="Retângulo_19" d="M0 0h6.605v6.413H0z" class="cls-12" data-name="Retângulo 19" transform="translate(9.651 10.156)"/>
+            <path id="Retângulo_20" d="M0 0h4.411v3.548H0z" class="cls-13" data-name="Retângulo 20" transform="translate(5.808 10.157)"/>
+            <path id="Retângulo_21" d="M0 0h7.474v6.053H0z" class="cls-4" data-name="Retângulo 21" transform="translate(11.531 4.15)"/>
+            <path id="Retângulo_22" d="M0 0h5.446v6.588H0z" class="cls-14" data-name="Retângulo 22" transform="translate(19.625 10.94)"/>
+            <path id="Retângulo_23" d="M0 0h4.663v5.789H0z" class="cls-9" data-name="Retângulo 23" transform="translate(18.768 14.689)"/>
+            <path id="Retângulo_24" d="M0 0h3.45v3.342H0z" class="cls-8" data-name="Retângulo 24" transform="translate(16.253 18.609)"/>
+            <path id="Retângulo_25" d="M0 0h4.451v2.421H0z" class="cls-15" data-name="Retângulo 25" transform="translate(14.237 20.708)"/>
+            <path id="Retângulo_26" d="M0 0h.951v2.9H0z" class="cls-16" data-name="Retângulo 26" transform="translate(23.426 16.941)"/>
+            <path id="Retângulo_27" d="M0 0h2.492v1.526H0z" class="cls-17" data-name="Retângulo 27" transform="translate(25.071 10.737)"/>
+            <path id="Retângulo_28" d="M0 0h1.799v.992H0z" class="cls-18" data-name="Retângulo 28" transform="translate(24.839 12.262)"/>
+            <path id="Retângulo_29" d="M0 0h3.379v5.871H0z" class="cls-19" data-name="Retângulo 29" transform="translate(16.253 7.582)"/>
+            <path id="Retângulo_30" d="M0 0h4.546v5.721H0z" class="cls-20" data-name="Retângulo 30" transform="translate(19.625 5.218)"/>
+            <path id="Retângulo_31" d="M0 0h3.314v5.365H0z" class="cls-21" data-name="Retângulo 31" transform="translate(19.001 4.15)"/>
+            <path id="Retângulo_32" d="M0 0h4.522v1.575H0z" class="cls-22" data-name="Retângulo 32" transform="translate(23.478 9.364)"/>
+            <path id="Retângulo_33" d="M0 0h2.159v3.457H0z" class="cls-23" data-name="Retângulo 33" transform="translate(24.176 5.909)"/>
+            <path id="Retângulo_34" d="M0 0h2.003v1.45H0z" class="cls-24" data-name="Retângulo 34" transform="translate(25.688 6.998)"/>
+            <path id="Retângulo_35" d="M0 0h2.826v1.449H0z" class="cls-25" data-name="Retângulo 35" transform="translate(25.174 8.448)"/>
+            <path id="Retângulo_36" d="M0 0h1.699v1.359H0z" class="cls-4" data-name="Retângulo 36" transform="translate(17.287 2.574)"/>
+            <path id="Retângulo_37" d="M0 0h3.083v3.385H0z" class="cls-4" data-name="Retângulo 37" transform="translate(11.531 2.615)"/>
+            <path id="Retângulo_38" d="M0 0h9.536v7.587H0z" class="cls-26" data-name="Retângulo 38" transform="translate(2.009 2.615)"/>
+            <path id="Retângulo_39" d="M0 0h3.319v4.279H0z" class="cls-27" data-name="Retângulo 39" transform="translate(6.901)"/>
+            <path id="Retângulo_40" d="M0 0h6.157v2.378H0z" class="cls-28" data-name="Retângulo 40" transform="translate(0 9.553)"/>
+            <path id="Retângulo_41" d="M0 0h2.39v3.762H0z" class="cls-29" data-name="Retângulo 41" transform="translate(14.609 .388)"/>
+            <path id="Retângulo_42" d="M0 0h.967v.956H0z" class="cls-13" data-name="Retângulo 42" transform="translate(17.801 14.689)"/>
+        </g>
+    </g>
+</svg>
