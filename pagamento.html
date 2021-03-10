@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="assets/img/header/logo.png" type="image/x-icon">
+        <link rel="stylesheet" href="assets/styles/style.css">
+        <script src="assets/scripts/compra-efetuada.js"></script>
+        <title>Aired | Viaje com os melhores pacotes</title>
+    </head>
+    <body>
+        <div id="header">
+            <div class="slogan2"><h1>A viagem dos seus sonhos começa aqui!</h1></div>
+            <img src="assets/img/header/header-img-small.jpg" alt="paisagem">
+        </div>
+        <div class="navbar">
+            <div id="logo"><a href="index.html"><img src="assets/img/header/logo.png" alt="Logomarca de viagem"></a></div>
+            <a href="index.html">Início</a>
+            <a href="" class="active">Passagens</a>
+            <a href="">Hotéis</a>
+            <a href="">Pacotes</a>
+            <div class="acessar">
+                <a href="">Cadastre-se</a>
+                <a href="">Entrar</a>
+            </div>
+        </div>
+    <div class="main">
+        <section class="trip-menu">
+            <div class="form-passagens">
+                <h1><span class="number">1</span> Quem são os viajantes?</h1>
+            <form action="mailto:rafaellviktor@gmail.com" method="post" enctype="text/plain">
+                <label for="nome">Nome:</label><br>
+                <input type="text" id="fname" name="nome"><br>
+                <label for="sobrenome">Sobrenome:</label><br>
+                <input type="text" id="lname" name="sobrenome">
+                <br>
+                <label for="data-nascimento">Data de Nascimento:</label><br>
+                <input type="date" id="data-de-nascimento" name="data-nascimento">
+                <h1><span  class="number">2</span> Qual a forma de pagamento?</h1>
+                <select id="tipo-cartoes" value="credito" name="forma-pagamento">
+                <option value="credito">Cartão de Crédito</option>
+                <option value="debito">Cartão de Débito</option>
+                <option value="boleto">Boleto Bancário</option>
+                </select>
+                <br><br>
+                <select id="cartoes" value="visa" name="bandeira-cartao">
+                    <option value="visa">Visa</option>
+                    <option value="mastercard">Mastercard</option>
+                    <option value="elo">Elo</option>
+                    <option value="hipercard">Hipercard</option>
+                    <option value="diners">Diners Club</option>
+                </select>
+                <br>
+                <br><input type="submit" id="submit-comprar" value="COMPRAR" onclick="comprar();">
+            </form>
+            </div>
+            <div class="vl"></div>
+            <div class="resumo-pedido">
+                <img src="assets/img/aero.jpg" alt="aeroporto">
+            </div>
+            
+        </section>
+    </div>
+    <footer>
+        <div class="rodape">
+            <nav> 
+            <h1>Siga nossas ofertas pelas redes sociais</h1>
+            <ul class="redes">
+            <li><a href="https://mail.google.com/"><img src="assets/img/icons/gmail.png" alt="gmail"></a></li>
+            <li><a href="https://twitter.com/"><img src="assets/img/icons/twitter.png" alt="twitter"></a></li>
+            <li><a href="https://www.youtube.com/"><img src="assets/img/icons/youtube.png" alt="youtube"></a><li>
+            <li><a href="https://www.facebook.com/"><img src="assets/img/icons/facebook.png" alt="facebook"><a><li>
+            </ul>
+            </nav>
+            <small>&copy; 2021 Aired. Todos os direitos reservados. </small>
+        </div>
+    </footer>
+</body>
+</html>
