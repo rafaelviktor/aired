@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/img/header/logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="assets/styles/login_cadastro.css">
+    <title>Cadastro | Aired</title>
+    <script type="text/javascript" src="assets/scripts/login-cadastro/script.js"></script>
+</head>
+<body>
+    <div id="logo">
+        <img src="assets/img/header/logo.png" alt="logomarca-aired">
+    </div>
+    <div class="container">
+        <h1>Crie sua conta</h1>
+        <form name="autenticacao" action="cadastrar.php" method="POST" id="form-cadastro">
+            <div class="label-float">
+                <input type="text" name="nome" id="nome" size="30" placeholder=" " minlength="10" onblur="nomeRequerido()" onkeyup="checkform()">
+                <label for="nome">Nome completo</label>
+            </div>
+            <div class="label-float">
+                <input type="email" name="email" id="email" size="30" placeholder=" " onblur="emailRequerido()" onkeyup="checkform()">
+                <label for="email">Email</label>
+            </div>
+            <div class="label-float">
+                <input type="password" name="senha" id="senha" size="30" placeholder=" " minlength="8" onblur="senhaRequerida()" onkeyup="checkform()">
+                <label for="senha">Senha</label>
+            </div>
+            <br>
+            <div class="submit-links">
+                <input type="submit" value="CADASTRAR" id="submit" name="cadastrar" disabled>
+            </div>
+            <div class="submit-links">
+                <a href="login.html">Já tenho uma conta &#x203A;</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
