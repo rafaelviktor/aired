@@ -170,3 +170,7 @@ form {
 .submit-links a:hover {
     color: #0059ff;
 }
+
+.submit-links a::after {
+    content: ' ›';
+}
